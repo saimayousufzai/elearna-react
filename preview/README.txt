@@ -1,0 +1,1 @@
+Open index.html in a browser WITH internet access (React and all images load from online CDNs). To preview a page, use the navbar. This is a standalone browser preview, not a built Vite distribution. The source React project is one folder up.

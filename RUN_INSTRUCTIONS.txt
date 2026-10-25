@@ -1,0 +1,17 @@
+ELEARNA REACT — 10 PAGES
+
+1. Install Node.js 20.19+.
+2. Open this folder in VS Code.
+3. Open the Terminal in this folder.
+4. Run: npm install
+5. Run: npm run dev
+6. Open the localhost URL shown.
+
+Navbar:
+Home -> Home One / Home Two
+Courses -> Course One / Course Two
+Pages -> About One / About Two
+Blog -> Blog One / Blog Two
+Contact -> Contact One / Contact Two
+
+For a simple preview, open preview/index.html in a browser with internet access.
